@@ -30,14 +30,14 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Machine Learning Engin
 - 🔍 Specializing in the development and deployment of Large Language Models (LLMs) to solve complex NLP tasks.
 
 ## Projects
-### [Project Name 1](https://github.com/mahii6991/project1)
+### [Email Intent Classification Model]
 - **Description**: A brief description of what the project does.
 - **Technologies Used**: Python, TensorFlow, React
 - **Key Features**:
   - Integrated AI models with a user-friendly web interface
   - Deployed using Docker and Kubernetes for scalability
 
-### [Project Name 2](https://github.com/mahii6991/project2)
+### [Recommendation System]
 - **Description**: A brief description of what the project does.
 - **Technologies Used**: PyTorch, Node.js, Express
 - **Key Features**:
