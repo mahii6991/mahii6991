@@ -15,14 +15,12 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Machine Learning Engin
 
 ## About Me
 - 👀 I'm fascinated by the realms of Machine Learning, Federated Learning, and Natural Language Processing, with a special focus on Large Language Models (LLMs). Exploring the endless possibilities these fields offer keeps me motivated and excited.
-- 🌱 Currently, I'm thriving in the dynamic environment of Ecliptic, a place where innovation meets real-world challenges. I'm actively involved in leveraging the power of AI to make a difference.
 
 ## Skills
 - **Languages**: Python, JavaScript, SQL, R
 - **Frameworks**: TensorFlow, PyTorch, Scikit-learn, React, Node.js
 - **Tools**: Jupyter, Git, Docker, Kubernetes
 - **Areas of Expertise**: Machine Learning, Federated Learning, Natural Language Processing, Large Language Models (LLMs)
-- **Full Stack Development**: Proficient in both backend and frontend development, enabling seamless integration of AI solutions into web applications.
 
 ## Current Work
 - 🌱 I am working at Ecliptic, focusing on innovative AI solutions.
